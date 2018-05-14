@@ -1,0 +1,16 @@
+PODS:
+  - PSComponents (1.0.0)
+
+DEPENDENCIES:
+  - PSComponents (from `../PSComponents/`)
+
+EXTERNAL SOURCES:
+  PSComponents:
+    :path: "../PSComponents/"
+
+SPEC CHECKSUMS:
+  PSComponents: 7d7e6960ae8292eb17b8e14f00ea776ffc5e16a4
+
+PODFILE CHECKSUM: 4250dc38ddcf298ff6b7a0443e1dcdbdcb8a3572
+
+COCOAPODS: 1.5.0

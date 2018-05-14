@@ -34,7 +34,7 @@ extension UIViewController {
     }
     
     
-    public  class func buttonAction (title: String)->(Any?) {
+    public class func buttonAction (title: String)->(Any?) {
         
         print("Extension Action is called")
         return nil

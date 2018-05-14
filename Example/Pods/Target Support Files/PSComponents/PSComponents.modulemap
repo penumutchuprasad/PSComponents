@@ -1,0 +1,6 @@
+framework module PSComponents {
+  umbrella header "PSComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}
