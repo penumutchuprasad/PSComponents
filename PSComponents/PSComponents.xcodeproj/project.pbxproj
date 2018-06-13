@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B310EA320D18B55004320D4 /* UIComponents in Resources */ = {isa = PBXBuildFile; fileRef = 5B310EA220D18B55004320D4 /* UIComponents */; };
 		5B68C67320A9D3CF007FD779 /* PSComponents.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B68C67120A9D3CF007FD779 /* PSComponents.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5B68C67A20A9D41A007FD779 /* Extensions+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B68C67920A9D41A007FD779 /* Extensions+.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B310EA220D18B55004320D4 /* UIComponents */ = {isa = PBXFileReference; lastKnownFileType = folder; path = UIComponents; sourceTree = "<group>"; };
 		5B68C66E20A9D3CF007FD779 /* PSComponents.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PSComponents.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B68C67120A9D3CF007FD779 /* PSComponents.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PSComponents.h; sourceTree = "<group>"; };
 		5B68C67220A9D3CF007FD779 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 				5B68C67120A9D3CF007FD779 /* PSComponents.h */,
 				5B68C67220A9D3CF007FD779 /* Info.plist */,
 				5B68C67920A9D41A007FD779 /* Extensions+.swift */,
+				5B310EA220D18B55004320D4 /* UIComponents */,
 			);
 			path = PSComponents;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B310EA320D18B55004320D4 /* UIComponents in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
