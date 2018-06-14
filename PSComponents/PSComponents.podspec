@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage      = "https://github.com/penumutchuprasad/PSComponents"
   s.license       = "MIT"
   s.author        = { "LEELA_PRASAD" => "penumutchu.prasad@gmail.com" }
-  s.platform      = :ios, "> 10.0"
+  s.platform      = :ios
   s.source        = { :git => "https://github.com/penumutchuprasad/PSComponents.git", :tag => "1.0.0" }
   s.source_files  = "PSComponents/**/*.{swift}"
   s.framework     = "UIKit"
