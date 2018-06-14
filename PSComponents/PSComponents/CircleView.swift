@@ -72,19 +72,3 @@ public class CircleView: UIView {
   
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
