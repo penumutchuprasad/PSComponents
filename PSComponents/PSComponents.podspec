@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name          = "PSComponents"
-  s.version       = "1.0.2"
+  s.version       = "1.0.1"
   s.summary       = "Makes IOS Development fast"
   s.description   = "It gives many custom components and simple system customised APIs"
   s.homepage      = "https://github.com/penumutchuprasad/PSComponents"
