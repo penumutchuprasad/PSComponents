@@ -11,6 +11,7 @@
 		5B310EA720D18EA8004320D4 /* UIShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B310EA520D18EA8004320D4 /* UIShadowView.swift */; };
 		5B68C67320A9D3CF007FD779 /* PSComponents.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B68C67120A9D3CF007FD779 /* PSComponents.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5B68C67A20A9D41A007FD779 /* Extensions+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B68C67920A9D41A007FD779 /* Extensions+.swift */; };
+		5BE25AE120D1FDBE00D57534 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE25AE020D1FDBE00D57534 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5B68C67120A9D3CF007FD779 /* PSComponents.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PSComponents.h; sourceTree = "<group>"; };
 		5B68C67220A9D3CF007FD779 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B68C67920A9D41A007FD779 /* Extensions+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extensions+.swift"; sourceTree = "<group>"; };
+		5BE25AE020D1FDBE00D57534 /* CircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5B68C67920A9D41A007FD779 /* Extensions+.swift */,
 				5B310EA420D18EA8004320D4 /* GradientView.swift */,
 				5B310EA520D18EA8004320D4 /* UIShadowView.swift */,
+				5BE25AE020D1FDBE00D57534 /* CircleView.swift */,
 			);
 			path = PSComponents;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BE25AE120D1FDBE00D57534 /* CircleView.swift in Sources */,
 				5B310EA620D18EA8004320D4 /* GradientView.swift in Sources */,
 				5B310EA720D18EA8004320D4 /* UIShadowView.swift in Sources */,
 				5B68C67A20A9D41A007FD779 /* Extensions+.swift in Sources */,
